@@ -1,0 +1,52 @@
+{
+  "teams": [
+    {
+      "name": "Olamide Kehinde",
+      "desc": "Organizer",
+      "contribution": "Software Engineer",
+      "image": "https://pbs.twimg.com/profile_images/864282616597405701/M-FEJMZ0_400x400.jpg"
+    },
+    {
+      "name": "Davis Omokaro",
+      "desc": "Co-Organizer",
+      "contribution": "Software Engineer",
+      "image": "https://avatars2.githubusercontent.com/u/10599101?s=460&v=4"
+    },
+    {
+      "name": "Judith Oiku",
+      "desc": "Co-Organizer",
+      "contribution": "Software Engineer / WTM Lead Ikorodu",
+      "image": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5c76bcaaa7ea43100043c836%2F400x400.jpg%3Ffit%3Dscale%26background%3D000000"
+    },
+    {
+      "name": "Benjamin Ajewole",
+      "desc": "Co-Organizer",
+      "contribution": "Software Engineer",
+      "image": "https://avatars1.githubusercontent.com/u/12619420?s=400&u=eac38b075e4e4463edfb0f0a8972825cf7803d4c&v=4"
+    },
+    {
+      "name": "Samuel Abada",
+      "desc": "Organizer",
+      "contribution": "Developed the app",
+      "image": "https://avatars1.githubusercontent.com/u/12619420?s=400&u=eac38b075e4e4463edfb0f0a8972825cf7803d4c&v=4"
+    },
+    {
+      "name": "Luqman",
+      "desc": "Organizer",
+      "contribution": "Software Developer",
+      "image": "https://avatars1.githubusercontent.com/u/12619420?s=400&u=eac38b075e4e4463edfb0f0a8972825cf7803d4c&v=4"
+    },
+    {
+      "name": "Ejiro",
+      "desc": "Organizer",
+      "contribution": "AI/ML Developer",
+      "image": "https://avatars1.githubusercontent.com/u/12619420?s=400&u=eac38b075e4e4463edfb0f0a8972825cf7803d4c&v=4"
+    },
+    {
+      "name": "Dotun",
+      "desc": "Organizer",
+      "contribution": "UI/UX Designer",
+      "image": "https://avatars1.githubusercontent.com/u/12619420?s=400&u=eac38b075e4e4463edfb0f0a8972825cf7803d4c&v=4"
+    }
+  ]
+}

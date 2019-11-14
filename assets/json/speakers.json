@@ -1,0 +1,114 @@
+{
+  "speakers": [
+    {
+      "speaker_image": "https://raw.githubusercontent.com/Mastersam07/MyFiles/master/Shodipo1.png?token=AHOTTJOA2EYOGPF7TNTFMT252PXQ4",
+      "speaker_name": "Shodipo Ayomide",
+      "speaker_desc": "Senior Developer Advocate & Engineer",
+      "speaker_session": "Design from a realm of open-source",
+      "fb_url": "https://facebook.com/abada.samueloghenero",
+      "github_url": "https://github.com/mastersam07",
+      "linkedin_url": "https://www.linkedin.com/in/abada-samuel",
+      "twitter_url": "https://twitter.com/mastersam_"
+    },
+    {
+      "speaker_image": "https://raw.githubusercontent.com/Mastersam07/MyFiles/master/Oluwadara1.png?token=AHOTTJOLRJ5ZBQRLHTWTNJC52PXV4",
+      "speaker_name": "Oluwadara Abijo",
+      "speaker_desc": "Android Developer",
+        "speaker_session": "Easier Navigation with Android Navigation Components",
+      "fb_url": "https://facebook.com/abada.samueloghenero",
+      "github_url": "https://github.com/mastersam07",
+      "linkedin_url": "https://www.linkedin.com/in/abada-samuel",
+      "twitter_url": "https://twitter.com/mastersam_"
+    },
+    {
+      "speaker_image": "https://raw.githubusercontent.com/Mastersam07/MyFiles/master/Ejiro1.png?token=AHOTTJJP7XFW7UA3FP3SGXC52PXZA",
+      "speaker_name": "Ejiro Onose",
+      "speaker_desc": "Android & ML Deeveloper",
+      "speaker_session": "Introduction to Tensorflow and Tensorflow Lite",
+      "fb_url": "https://facebook.com/abada.samueloghenero",
+      "github_url": "https://github.com/mastersam07",
+      "linkedin_url": "https://www.linkedin.com/in/abada-samuel",
+      "twitter_url": "https://twitter.com/mastersam_"
+    },
+    {
+      "speaker_image": "https://raw.githubusercontent.com/Mastersam07/MyFiles/master/Aruna1.png?token=AHOTTJLFLE44B4XO57WAQZ252PX6C",
+      "speaker_name": "Aruna Fatimah",
+      "speaker_desc": "Networking and Infrastructure Engineer, Bank of Industry",
+      "speaker_session": "Visual Traffic Surveillance Using Computer Techniques To Detect Vehicles",
+      "fb_url": "https://facebook.com/abada.samueloghenero",
+      "github_url": "https://github.com/mastersam07",
+      "linkedin_url": "https://www.linkedin.com/in/abada-samuel",
+      "twitter_url": "https://twitter.com/mastersam_"
+    },
+    {
+      "speaker_image": "https://raw.githubusercontent.com/Mastersam07/MyFiles/master/Auwal1.png?token=AHOTTJIK2Q6TDKSWIG32PY252PX72",
+      "speaker_name": "Auwal MS",
+      "speaker_desc": "Program Manager, Developer Student Clubs SSA, Google",
+      "speaker_session": "Keynote",
+      "fb_url": "https://facebook.com/abada.samueloghenero",
+      "github_url": "https://github.com/mastersam07",
+      "linkedin_url": "https://www.linkedin.com/in/abada-samuel",
+      "twitter_url": "https://twitter.com/mastersam_"
+    },
+    {
+      "speaker_image": "https://raw.githubusercontent.com/Mastersam07/MyFiles/master/Moyin1.png?token=AHOTTJKENIBVOT7EW7E4WVC52PYDG",
+      "speaker_name": "Moyinoluwa Adeyemi",
+      "speaker_desc": "Google Developer Expert, Android",
+      "speaker_session": "Levelling Up as an Android Dev",
+      "fb_url": "https://facebook.com/abada.samueloghenero",
+      "github_url": "https://github.com/mastersam07",
+      "linkedin_url": "https://www.linkedin.com/in/abada-samuel",
+      "twitter_url": "https://twitter.com/mastersam_"
+    },
+    {
+      "speaker_image": "https://raw.githubusercontent.com/Mastersam07/MyFiles/master/Segun1.png?token=AHOTTJOQDMJCWVVQO375QFK52PYEU",
+      "speaker_name": "Segun Olumide",
+      "speaker_desc": "UI/UX Developer, Community Lead/Mentor",
+      "speaker_session": "Power of AMP(Accelerated Mobile Pages)",
+      "fb_url": "https://facebook.com/abada.samueloghenero",
+      "github_url": "https://github.com/mastersam07",
+      "linkedin_url": "https://www.linkedin.com/in/abada-samuel",
+      "twitter_url": "https://twitter.com/mastersam_"
+    },
+    {
+      "speaker_image": "https://raw.githubusercontent.com/Mastersam07/MyFiles/master/Uche1.png?token=AHOTTJNPG3M6XNC27YTK25C52PYE2",
+      "speaker_name": "Uche Jude",
+      "speaker_desc": "Software Engineer",
+      "speaker_session": "Headless CMS with frontility and Wordpress",
+      "fb_url": "https://facebook.com/abada.samueloghenero",
+      "github_url": "https://github.com/mastersam07",
+      "linkedin_url": "https://www.linkedin.com/in/abada-samuel",
+      "twitter_url": "https://twitter.com/mastersam_"
+    },
+    {
+      "speaker_image": "https://raw.githubusercontent.com/Mastersam07/MyFiles/master/Judith1.png?token=AHOTTJO4DH6ALN3W3WRFI7C52PYHS",
+      "speaker_name": "Judith Oiku",
+      "speaker_desc": "Software Developer / WTM Lead Ikorodu",
+      "speaker_session": "Promoting A Culture Of Diversity And Inclusion In Tech",
+      "fb_url": "https://facebook.com/abada.samueloghenero",
+      "github_url": "https://github.com/mastersam07",
+      "linkedin_url": "https://www.linkedin.com/in/abada-samuel",
+      "twitter_url": "https://twitter.com/mastersam_"
+    },
+    {
+      "speaker_image": "https://raw.githubusercontent.com/Mastersam07/MyFiles/master/Khaulat1.png?token=AHOTTJP4SREN7LGRO4JRMAS52PYHW",
+      "speaker_name": "Khaulat Ayomide",
+      "speaker_desc": "AI Developer",
+      "speaker_session": "Minimizing and Deploying Deep Learning Models",
+      "fb_url": "https://facebook.com/abada.samueloghenero",
+      "github_url": "https://github.com/mastersam07",
+      "linkedin_url": "https://www.linkedin.com/in/abada-samuel",
+      "twitter_url": "https://twitter.com/mastersam_"
+    },
+    {
+      "speaker_image": "https://raw.githubusercontent.com/Mastersam07/MyFiles/master/Ibraheem1.png?token=AHOTTJLCIKXQXYTGKHBNCTK52PYJU",
+      "speaker_name": "Ibraheem Zulkifli",
+      "speaker_desc": "Product Specialist at Mev Suite (mevapp.com)",
+      "speaker_session": "Promoting A Culture Of Diversity And Inclusion In Tech",
+      "fb_url": "https://facebook.com/abada.samueloghenero",
+      "github_url": "https://github.com/mastersam07",
+      "linkedin_url": "https://www.linkedin.com/in/abada-samuel",
+      "twitter_url": "https://twitter.com/mastersam_"
+    }
+  ]
+}
